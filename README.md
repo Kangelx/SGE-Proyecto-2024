@@ -103,7 +103,7 @@
       - True si la incidencia está cerrada, False si no lo está.
 
 <div id='autores'/>
-  ## **Autores del proyecto**
+  ## Autores del proyecto
   
 ### *Aplicación móvil*
 - :iphone: Diego Corominas Gómez :iphone:
