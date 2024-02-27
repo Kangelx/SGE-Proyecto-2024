@@ -104,6 +104,7 @@
 
 <div id='autores'/>
   ## **Autores del proyecto**
+  
 ### *Aplicación móvil*
 - :iphone: Diego Corominas Gómez :iphone:
 - :llama: Oana Irina Cutitaru Ciobanu :llama:
