@@ -100,3 +100,18 @@
     - Método para obtener el estado de la incidencia (cerrada o no cerrada).
     - **Retorna:**
       - True si la incidencia está cerrada, False si no lo está.
+
+  ## **Autores del proyecto**
+### *Aplicación móvil*
+- :iphone: Diego Corominas Gómez :iphone:
+- :llama: Oana Irina Cutitaru Ciobanu :llama:
+
+### *Aplicación de escritorio*
+- :headphones: Paula Díaz Santos :headphones:
+- :desktop_computer: Ángel García García :desktop_computer:
+
+### *Python*
+- :snake: Rubén Cortés Muñoz :snake:
+
+### *Base de datos*
+- :file_folder: Pablo Sainz Luque :file_folder:
