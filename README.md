@@ -2,7 +2,7 @@
 ![308286538-19ea4930-cdb6-41e9-ae77-a4d0a5e7b101](https://github.com/Kangelx/SGE-Proyecto-2024/assets/92815915/876698dc-8b9e-41e2-8f8d-aac22cc78f73)
 
 
-# PROYECTO INTERMODULAR EQUIPO 3:Sistemas de Gestión Empresarial - Programa con Python
+# PROYECTO INTERMODULAR EQUIPO 3: Sistemas de Gestión Empresarial - Programa con Python
 ## [Página Principal](https://github.com/Kangelx/Proyecto2024-2025/blob/main/README.md)
 </head>
   <body>
