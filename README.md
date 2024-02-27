@@ -16,6 +16,7 @@
       <li><a href="#objetivos">OBJETIVOS</a></li>
       <li><a href="#codigo">FUNCIONES Y MÉTODOS</a></li>
       <li><a href="#clases">CLASE INCIDENCIAS</a></li>
+      <li><a href="#autores">AUTORES DEL PROYECTO</a></li>
       </ul>
     
     
@@ -101,6 +102,7 @@
     - **Retorna:**
       - True si la incidencia está cerrada, False si no lo está.
 
+<div id='autores'/>
   ## **Autores del proyecto**
 ### *Aplicación móvil*
 - :iphone: Diego Corominas Gómez :iphone:
